@@ -1,0 +1,8 @@
+7
+accessible
+buffer
+C4
+D5
+E2
+r
+g
